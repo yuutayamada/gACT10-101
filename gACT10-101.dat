@@ -11,6 +11,10 @@
 #・空白行やタブのない行は一旦読み込まれたあと、無視される
 #-----------------------------------
 
+# This file was copied from http://hp.vector.co.jp/authors/VA002116/act/gact10_doc.html
+# some minor changes were applied:
+
+# 1. : -> ' for 101 keyboard
 
 
 #■一打目の機能
